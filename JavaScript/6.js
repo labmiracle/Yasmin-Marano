@@ -24,3 +24,4 @@ const carrito = {
 }; 
 
 console.log(carrito.precioTotal);
+///// 33
