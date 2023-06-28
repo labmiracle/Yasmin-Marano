@@ -17,9 +17,9 @@ function cc(card) {
     }
 }; 
 
-console.log(cc(2));
-console.log(cc(3));
-console.log(cc(7));
-console.log(cc("K"));
-console.log(cc("A"));
+cc(2);
+cc(3);
+cc(7);
+cc("K");
+cc("A");
 
